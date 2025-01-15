@@ -20,7 +20,7 @@
 1. Clone this repository into the `custom_nodes` directory of your ComfyUI installation:
 
    ```bash
-   git clone https://github.com/your-username/ComfyUI-PromptOptimizer.git
+   git clone https://github.com/ciga2011/ComfyUI-PromptOptimizer.git
    ```
 
 2. Launch ComfyUI and ensure the `Free Prompt Optimizer` node is available in the node list.
