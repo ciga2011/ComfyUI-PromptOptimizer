@@ -1,7 +1,7 @@
 [project]
 name = "promptoptimizer"
 description = "Optimize prompts for text-to-image models at no cost."
-version = "1.0.0"
+version = "1.0.1"
 license = {file = "LICENSE"}
 dependencies = []
 
